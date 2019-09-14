@@ -38,3 +38,5 @@ To run the statistical analysis, simply run the command `python3 stats_analysis.
 
 ### Running the Machine Learning Methods
 To run the machine learning methods, simply run the command `python3 stats.py`. This will run the code for the machine learning methods on the movie data and produce graphs summarising the findings of the project.
+
+This project was completed with a partner.
